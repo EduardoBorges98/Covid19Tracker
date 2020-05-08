@@ -1,1 +1,1 @@
-web: covid19-tracker-eduardo/server.js
+web: covid19-tracker/server.js
