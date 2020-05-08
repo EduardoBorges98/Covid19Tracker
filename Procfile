@@ -1,1 +1,1 @@
-web: server.js
+web: covid19-tracker\server.js
